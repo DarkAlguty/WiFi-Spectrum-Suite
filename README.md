@@ -1,24 +1,7 @@
 # WiFi Spectrum Suite
 
 Análisis Profesional de Datos de Wardriving WiFi
-
 Suite completa para el análisis, limpieza y visualización de datos de redes inalámbricas obtenidos mediante wardriving
-
-
-## Tabla de Contenidos
-
-- [Características](#-características)
-- [Scripts Incluidos](#-scripts-incluidos)
-- [Instalación](#-instalación)
-- [Uso Rápido](#-uso-rápido)
-- [Ejemplos de Uso](#-ejemplos-de-uso)
-- [Estructura del Proyecto](#-estructura-del-proyecto)
-- [Salidas Generadas](#-salidas-generadas)
-- [Requisitos](#-requisitos)
-- [Contribuir](#-contribuir)
-- [Licencia](#-licencia)
-- [Autores](#-autores)
-
 
 ## Características
 Preprocesamiento Inteligente
@@ -57,7 +40,6 @@ Interfaz gráfica web
 Análisis de series temporales
 Machine learning para detección de patrones
 Soporte para más formatos de exportación
-
 
 ## Autores
 DarkAlguty - Desarrollo inicial
