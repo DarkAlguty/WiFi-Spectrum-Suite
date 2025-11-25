@@ -1,1 +1,62 @@
-Este conjunto representa una suite profesional completa para el análisis de datos de wardriving, combinando capacidades técnicas avanzadas con una orientación práctica hacia la resolución de problemas reales en entornos WiFi.
+# 🌐 WiFi Spectrum Suite
+
+**Análisis Profesional de Datos de Wardriving WiFi**
+
+[![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
+> **Suite completa para el análisis, limpieza y visualización de datos de redes inalámbricas obtenidos mediante wardriving**
+
+---
+
+## 📋 Tabla de Contenidos
+
+- [Características](#-características)
+- [Scripts Incluidos](#-scripts-incluidos)
+- [Instalación](#-instalación)
+- [Uso Rápido](#-uso-rápido)
+- [Ejemplos de Uso](#-ejemplos-de-uso)
+- [Estructura del Proyecto](#-estructura-del-proyecto)
+- [Salidas Generadas](#-salidas-generadas)
+- [Requisitos](#-requisitos)
+- [Contribuir](#-contribuir)
+- [Licencia](#-licencia)
+- [Autores](#-autores)
+
+---
+
+## 🚀 Características
+
+### 🔧 **Preprocesamiento Inteligente**
+- ✅ Limpieza automática de datos corruptos
+- ✅ Reparación inteligente de formatos de fecha
+- ✅ Múltiples estrategias de carga robusta
+- ✅ Manejo de archivos CSV inconsistentes
+
+### 📊 **Análisis de Interferencias**
+- 🎯 Detección de canales congestionados
+- 📶 Análisis de interferencias entre canales
+- 💡 Recomendaciones estratégicas automáticas
+- 📈 Visualización de distribución por canal
+
+### 🗺️ **Análisis Geoespacial**
+- 🌍 Mapas de calor interactivos
+- 📍 Localización de puntos de acceso
+- 🔍 Análisis de densidad de redes
+- 📱 Dashboard de visualización avanzada
+
+### 🔒 **Auditoría de Seguridad**
+- 🛡️ Detección de redes abiertas
+- ⚠️ Identificación de encriptación débil (WEP)
+- 📋 Reportes de postura de seguridad
+- 📊 Estadísticas de métodos de autenticación
+
+---
+
+## 📁 Scripts Incluidos
+
+### 1. **`depurador_csv.py`** - Limpieza de Datos
+**Especialista en corrección de problemas de formato**
+```bash
+python depurador_csv.py datos_wifi.csv --validar --crear-loader
