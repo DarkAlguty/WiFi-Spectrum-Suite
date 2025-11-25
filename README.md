@@ -31,21 +31,21 @@ Auditoría de Seguridad
 
 ## Instalación
 Prerrequisitos
-Python 3.8 o superior
-4GB RAM mínimo (8GB recomendado)
-500MB espacio en disco
+- Python 3.8 o superior
+- 4GB RAM mínimo (8GB recomendado)
+- 500MB espacio en disco
 
 ## Roadmap Planeado
-Interfaz gráfica web
-Análisis de series temporales
-Machine learning para detección de patrones
-Soporte para más formatos de exportación
+- Interfaz gráfica web
+- Análisis de series temporales
+- Machine learning para detección de patrones
+- Soporte para más formatos de exportación
 
 ## Autores
-DarkAlguty - Desarrollo inicial
+- DarkAlguty - Desarrollo inicial
 
 ## Agradecimientos
-https://electroniccats.com/
-BUGcon 2025
-Comunidad de wardriving y seguridad WiFi
-Contribuidores de las bibliotecas de código abierto utilizadas
+- https://electroniccats.com/
+- BUGcon 2025
+- Comunidad de wardriving y seguridad WiFi
+- Contribuidores de las bibliotecas de código abierto utilizadas
